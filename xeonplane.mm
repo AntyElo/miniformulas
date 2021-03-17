@@ -1,8 +1,8 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="[sff]" FOLDED="false" ID="ID_1160311490" CREATED="1612647882853" MODIFIED="1612688752472" STYLE="oval">
+<node TEXT="[sff]" FOLDED="false" ID="ID_1160311490" CREATED="1612647882853" MODIFIED="1615970107670" STYLE="oval">
 <font SIZE="18"/>
-<hook NAME="MapStyle" background="#000000">
+<hook NAME="MapStyle" background="#ffffff">
     <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" fit_to_viewport="false"/>
 
 <map_styles>
@@ -64,7 +64,6 @@
 </map_styles>
 </hook>
 <hook NAME="AutomaticEdgeColor" COUNTER="5" RULE="ON_BRANCH_CREATION"/>
-<cloud COLOR="#ffffff" SHAPE="ARC"/>
 <node TEXT="[prestart]" POSITION="right" ID="ID_301655536" CREATED="1612647918814" MODIFIED="1612649412394" HGAP_QUANTITY="22.999999731779106 pt" VSHIFT_QUANTITY="-29.999999105930357 pt">
 <edge COLOR="#ff0000"/>
 <node TEXT="uPrint(var)" ID="ID_1386232086" CREATED="1612648175580" MODIFIED="1612649410131" HGAP_QUANTITY="31.99999946355821 pt" VSHIFT_QUANTITY="-2.999999910593047 pt"/>
