@@ -142,7 +142,7 @@ def reInt(invar):
 # Сама по себе программа
 iconsize = 16
 def main():
-	sffVer = "tmp" # Версия sff
+	sffVer = "6" # Версия sff
 	sffSuph = "neon"
 	sffName = f"Miniformulas {sffSuph}-{sffVer}"
 	global mathMax
